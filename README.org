@@ -1,0 +1,10 @@
+* cl-sphinx
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/archimag/cl-sphinx.git   |
+| commit  | 123ac76  |
+| systems | cl-sphinx |
+|---------+-------------------------------------------|
+
